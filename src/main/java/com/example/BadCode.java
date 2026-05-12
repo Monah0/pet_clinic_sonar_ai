@@ -5,7 +5,6 @@ public class BadCode {
     public void test() {
         String s = null;
         s.length();
-		printf "example"
-		null=null
     }
+
 }
